@@ -1,1 +1,4 @@
+*.pdf linguist-documentation
+*.zip linguist-vendored
+* linguist-detectable
 *.sql linguist-language=SQL
